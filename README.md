@@ -32,26 +32,21 @@ FPS_Player/
 │ │ ├── jump
 │ │ ├──Slow_Walk
 │ │ └── Run
-│ │
 │ ├── Scripts/
 │ │ ├── PlayerMovement.cs
 │ │ ├── CameraController.cs
 │ │ └── AudioManager.cs
-│ │
 │ ├── Scenes/
 │ │ └── FPS_PLayer_Test_Scene
-│ │
 │ ├──Material
 │ │ ├── New Material
 │ │ └──New Material_1
-│
-├── README.md
 └── ...
 
 
 ## Gereksinimler
 
-- Unity 3D (Proje Unity 6 sürümlerde oluşturulmuştur.)
+- Unity 3D (Proje Unity 6 sürümünde oluşturulmuştur.)
 
 ## Lisans
 

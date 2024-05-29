@@ -53,8 +53,6 @@ FPS_Player/
 
 This project is licensed under the MIT License.
 
-Translated with DeepL.com (free version)
-
 
 TR
 # Unity FPS Oyunu Projesi

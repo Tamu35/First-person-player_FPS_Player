@@ -25,23 +25,22 @@ Bu projeyi kullanmak için şu adımları izleyebilirsiniz:
 Proje dosyalarının genel yapısı şu şekildedir:
 
 FPS_Player/
-│
-├── Assets/
-│ ├── Audio/
-│ │ ├── Walk
-│ │ ├── jump
-│ │ ├──Slow_Walk
-│ │ └── Run
-│ ├── Scripts/
-│ │ ├── PlayerMovement.cs
-│ │ ├── CameraController.cs
-│ │ └── AudioManager.cs
-│ ├── Scenes/
-│ │ └── FPS_PLayer_Test_Scene
-│ ├──Material
-│ │ ├── New Material
-│ │ └──New Material_1
-└── ...
+ Assets/
+   Audio/
+       Walk
+       jump
+       Slow_Walk
+       Run
+  Scripts/
+       PlayerMovement.cs
+       CameraController.cs
+       AudioManager.cs
+  Scenes/
+       FPS_PLayer_Test_Scene
+  Material
+       New Material
+       New Material_1
+ ...
 
 
 ## Gereksinimler
